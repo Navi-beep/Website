@@ -5,6 +5,13 @@ header {
     padding: 10;
    
   }
+.pb {
+width: 100%;
+}
+
+.pb-container{
+  width: 250px;
+}
 
 body {
   
